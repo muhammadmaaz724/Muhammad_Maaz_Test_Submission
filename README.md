@@ -54,18 +54,24 @@ Muhammad_Maaz_Test_Submission/
 
 1. **Install dependencies:**
    python -m venv venv
+   
    venv/Scripts/activate   # For Windows
+   
    pip install -r requirements.txt
    
-2. **Set up environment variables:**
-Create a .env file in the root directory and add: 
+3. **Set up environment variables:**
+Create a .env file in the root directory and add:
+
 GOOGLE_API_KEY=your_google_api_key
 
-3. **Run the application:**
+5. **Run the application:**
 streamlit run App/main.py
 
 Notes:
 - Uses Gemini gemini-2.5-flash for field extraction and transcript Q&A
+  
 - Embedding model used: models/embedding-001
+  
 - Outputs are stored in the outputs/ folder
+  
 - FAISS index is saved in App/vectorstore/faiss_index
