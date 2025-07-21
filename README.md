@@ -19,19 +19,33 @@ This project implements a customer support transcript parser using **LangChain**
 ## Folder Structure
 
 Muhammad_Maaz_Test_Submission/
+
 ├── App/
+
 │ ├── Field_Extraction/ # Pydantic-based field extraction logic
+
 │ ├── indexing/ # FAISS vectorstore creation and document splitting
+
 │ ├── output_generators/ # JSON and PDF generation
+
 │ ├── Retrieval/ # Semantic search and Gemini-based chat
+
 │ ├── vectorstore/ # Saved FAISS index files
+
 ├── input/
+
 │ └── transcript.txt # Sample input file
+
 ├── outputs/
+
 │ ├── json_format.json # Generated structured output (JSON)
+
 │ └── pdf_summary.pdf # Generated summary file (PDF)
+
 ├── main.py # Streamlit application entry point
+
 ├── requirements.txt # Required Python dependencies
+
 └── .env # API keys and environment variables
 
 ---
