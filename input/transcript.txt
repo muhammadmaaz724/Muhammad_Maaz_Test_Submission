@@ -1,0 +1,12 @@
+[Agent]: Hello and thank you for calling Acme Widgets Support. This is Sarah. How can I help you today?
+[Customer]: Hi Sarah, I’m Emma Davis. I placed an order last week and received the wrong item.
+[Agent]: I’m sorry to hear that, Emma. Can you give me your order number?
+[Customer]: Sure, it’s ORD-20250710-8765.
+[Agent]: Great. Which product did you originally order?
+[Customer]: I ordered the “UltraClean Vacuum 3000” but got the “Handheld MiniVac” instead.
+[Agent]: Understood. When did you receive your package?
+[Customer]: I got it on July 12th, 2025.
+[Agent]: And what resolution would you like—replacement, refund, or something else?
+[Customer]: I’d prefer a replacement shipped overnight.
+[Agent]: Got it. I have all the info. We’ll send you the correct vacuum tomorrow. Anything else I can help with?
+[Customer]: No, that’s it. Thanks!

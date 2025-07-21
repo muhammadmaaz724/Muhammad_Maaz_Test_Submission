@@ -1,0 +1,18 @@
+{
+  "case_id": "CS-20250721-0001",
+  "customer": {
+    "name": "Emma Davis",
+    "contact": "Not provided in transcript"
+  },
+  "order": {
+    "number": "ORD-20250710-8765",
+    "product": "UltraClean Vacuum 3000",
+    "purchase_date": "July 12th, 2025"
+  },
+  "issue": {
+    "description": "Customer ordered the \"UltraClean Vacuum 3000\" but received the \"Handheld MiniVac\" instead.",
+    "preferred_resolution": "Replacement shipped overnight"
+  },
+  "source": "transcript_parser",
+  "created_at": "2025-07-21T22:47:55.375463"
+}
